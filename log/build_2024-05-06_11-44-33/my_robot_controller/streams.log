@@ -1,0 +1,19 @@
+[0.802s] Invoking command in '/home/kerim/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/kerim/ros2_ws/build/my_robot_controller/prefix_override:/home/kerim/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kerim/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[1.085s] running develop
+[1.371s] running egg_info
+[1.372s] writing my_robot_controller.egg-info/PKG-INFO
+[1.373s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.373s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.373s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.374s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.376s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.377s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.379s] running build_ext
+[1.379s] Creating /home/kerim/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.380s] Installing draw_circle script to /home/kerim/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.380s] Installing pose_subscriber script to /home/kerim/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.381s] Installing test_node script to /home/kerim/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.381s] 
+[1.381s] Installed /home/kerim/ros2_ws/build/my_robot_controller
+[1.381s] running symlink_data
+[1.420s] Invoked command in '/home/kerim/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/kerim/ros2_ws/build/my_robot_controller/prefix_override:/home/kerim/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kerim/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
